@@ -28,5 +28,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fermanarpck&show_icons=true&locale=en" alt="fermanarpck" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fermanarpck&" alt="fermanarpck" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fermanarpck&show_icons=true&locale=en&layout=compact" alt="fermanarpck" /></p>
 
-<!-- Snake gif removed for better layout -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fermanarpck&show_icons=true&locale=en" alt="fermanarpck" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fermanarpck&" alt="fermanarpck" /></p>
+
+![snake gif](https://github.com/fermanarpck/fermanarpck/blob/output/github-contribution-grid-snake.gif)
