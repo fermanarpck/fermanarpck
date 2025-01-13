@@ -29,4 +29,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fermanarpck&" alt="fermanarpck" /></p>
 
-![snake gif](https://github.com/fermanarpck/fermanarpck/blob/output/github-contribution-grid-snake.gif)
+<!-- Snake gif removed for better layout -->
